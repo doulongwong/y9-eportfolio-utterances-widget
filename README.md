@@ -1,1 +1,1 @@
-# y9-eportfolio-utterances-widget
+Utterances widget config repository
